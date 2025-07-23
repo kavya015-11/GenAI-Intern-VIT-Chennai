@@ -1,5 +1,9 @@
 # GenAI-Intern-VIT-Chennai
 
+**
+This is a website that lets you ask questions about your e-commerce data in simple words. It gives answers as text, tables, or charts by using AI and a local database.**
+
+
 
 To run the project in website use this command:
     "uvicorn api.main:app --reload"
