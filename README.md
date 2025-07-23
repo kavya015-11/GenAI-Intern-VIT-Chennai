@@ -11,6 +11,6 @@ pip install openai python-dotenv fastapi uvicorn pandas matplotlib google-genera
 Questions solved:
 1."What is my total sales?"                                                                                                                  
 2."Show total sales by item"                                                                                             
-→ bar chart (displayed in charts folder)
+→ bar chart (displayed in charts folder)                                                                                                                                      
 3."What is the percentage share of total sales by item?"                                                                                                       
-→ pie chart (displayed in charts folder)
+→ pie chart (displayed in charts folder)                                                                                                    
